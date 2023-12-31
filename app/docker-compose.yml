@@ -1,5 +1,5 @@
 services:
-  app-fastapi:
+  python-fastapi:
     build:
       context: .
       dockerfile: Dockerfile
